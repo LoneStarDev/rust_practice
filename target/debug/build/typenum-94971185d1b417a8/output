@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/Bryson/rust_Projects/practice/target/debug/build/typenum-94971185d1b417a8/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/Bryson/rust_Projects/practice/target/debug/build/typenum-94971185d1b417a8/out/op.rs

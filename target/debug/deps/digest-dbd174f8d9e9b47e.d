@@ -1,0 +1,13 @@
+/Users/Bryson/rust_Projects/practice/target/debug/deps/digest-dbd174f8d9e9b47e.rmeta: /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/lib.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/digest.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/dyn_digest.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/errors.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/fixed.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/variable.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/xof.rs
+
+/Users/Bryson/rust_Projects/practice/target/debug/deps/libdigest-dbd174f8d9e9b47e.rlib: /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/lib.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/digest.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/dyn_digest.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/errors.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/fixed.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/variable.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/xof.rs
+
+/Users/Bryson/rust_Projects/practice/target/debug/deps/digest-dbd174f8d9e9b47e.d: /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/lib.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/digest.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/dyn_digest.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/errors.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/fixed.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/variable.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/xof.rs
+
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/lib.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/digest.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/dyn_digest.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/errors.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/fixed.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/variable.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/xof.rs:

@@ -1,0 +1,14 @@
+/Users/Bryson/rust_Projects/practice/target/debug/deps/blake3-9965e7cf0e827b8a.rmeta: /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/lib.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/guts.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/platform.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_avx2.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_avx512.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/portable.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_sse2.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_sse41.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/traits.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/join.rs
+
+/Users/Bryson/rust_Projects/practice/target/debug/deps/blake3-9965e7cf0e827b8a.d: /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/lib.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/guts.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/platform.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_avx2.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_avx512.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/portable.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_sse2.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_sse41.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/traits.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/join.rs
+
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/lib.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/guts.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/platform.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_avx2.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_avx512.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/portable.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_sse2.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_sse41.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/traits.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/join.rs:

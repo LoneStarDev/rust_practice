@@ -1,0 +1,12 @@
+/Users/Bryson/rust_Projects/practice/target/debug/deps/generic_array-0abb8f0973ff701a.rmeta: /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/lib.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/hex.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/impls.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/impl_serde.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/arr.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/functional.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/iter.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/sequence.rs
+
+/Users/Bryson/rust_Projects/practice/target/debug/deps/generic_array-0abb8f0973ff701a.d: /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/lib.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/hex.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/impls.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/impl_serde.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/arr.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/functional.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/iter.rs /Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/sequence.rs
+
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/lib.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/hex.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/impls.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/impl_serde.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/arr.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/functional.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/iter.rs:
+/Users/Bryson/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/sequence.rs:
